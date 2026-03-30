@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 100">
+  <rect width="400" height="100" fill="#1a1a2e"/>
+  <text x="200" y="55" font-family="'Helvetica Neue', Arial, sans-serif" font-size="38" text-anchor="middle" fill="#f0f0f0">
+    <tspan font-weight="300">the</tspan>
+    <tspan font-weight="200" fill="#c45d3e"> / </tspan>
+    <tspan font-weight="700">ops</tspan>
+    <tspan font-weight="200" fill="#c45d3e"> / </tspan>
+    <tspan font-weight="700">pastor</tspan>
+  </text>
+  <text x="200" y="80" font-family="'Helvetica Neue', Arial, sans-serif" font-size="9" font-weight="400" letter-spacing="4" text-anchor="middle" fill="#6b7280">SYSTEMS FOR THE SOLO OPERATOR</text>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="8" fill="#1a1a2e"/>
+  <text x="32" y="30" font-family="'Helvetica Neue', Arial, sans-serif" font-size="16" font-weight="700" text-anchor="middle" fill="#ffffff">OP</text>
+  <text x="32" y="30" font-family="'Helvetica Neue', Arial, sans-serif" font-size="16" font-weight="200" text-anchor="middle" fill="#c45d3e">  /  </text>
+  <line x1="14" y1="36" x2="50" y2="36" stroke="#c45d3e" stroke-width="1.5" opacity="0.5"/>
+  <text x="32" y="50" font-family="'Helvetica Neue', Arial, sans-serif" font-size="8" font-weight="400" letter-spacing="2" text-anchor="middle" fill="#6b7280">TOP</text>
+</svg>
